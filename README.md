@@ -24,15 +24,17 @@ Java is a powerful, versatile, and widely-used programming language that is esse
    - else statements
    - else-if statements
    - switch case
-   - Nested conditional statements
      
 4. **Session 4: Loops**
-   - For,For each, while, and do-while loops
-   - Loop control statements (break, continue)
+   - For
+   - while
+   - do-while
 
 5. **Session 5: Array**
    - Creating and initializing arrays
    - Array operations and manipulations
+   - Array with For each
+   - Multi dimensional array (2D)
 
 6. **Session 6: ArrayList**
    - Working with ArrayLists
