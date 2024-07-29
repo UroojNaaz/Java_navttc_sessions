@@ -19,12 +19,15 @@ Java is a powerful, versatile, and widely-used programming language that is esse
    - Arithmetic, relational, logical operators
    - Bitwise operators
 
-3. **Session 3: If-Else**
-   - Conditional statements
-   - Nested if-else
-
+3. **Session 3: Conditional Statements**
+   - if statements
+   - else statements
+   - else-if statements
+   - switch case
+   - Nested conditional statements
+     
 4. **Session 4: Loops**
-   - For, while, and do-while loops
+   - For,For each, while, and do-while loops
    - Loop control statements (break, continue)
 
 5. **Session 5: Array**
@@ -35,15 +38,16 @@ Java is a powerful, versatile, and widely-used programming language that is esse
    - Working with ArrayLists
    - Common methods and operations
 
-7. **Session 7: Classes and Objects**
-   - Defining classes and objects
-   - Constructors and methods
-   - Object-oriented principles (encapsulation, inheritance, polymorphism)
-
-8. **Session 8: Methods**
+7. **Session 7: Methods**
    - Defining and calling methods
    - Method overloading and overriding
    - Return types and parameter passing
+     
+8. **Session 8: Classes and Objects**
+   - Defining classes and objects
+   - Constructors and methods
+   - Object-oriented principles
+   - Recursion
 
 ## Prerequisites
 
