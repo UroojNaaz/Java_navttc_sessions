@@ -11,7 +11,7 @@ Java is a powerful, versatile, and widely-used programming language that is esse
 
 ## Sessions
 
-1. **Session 1: Data, Type, and Type Casting**
+1. **Session 1: Data Type, and Type Casting**
    - Overview of data types
    - Type casting and conversion
 
