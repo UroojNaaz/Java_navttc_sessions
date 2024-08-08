@@ -51,6 +51,39 @@ Java is a powerful, versatile, and widely-used programming language that is esse
    - Object-oriented principles
    - Recursion
 
+9. **Session 9: Encapsulation**
+   - Introduction to encapsulation
+   - Access modifiers
+   - Getter and setter methods
+
+10. **Session 10: Inheritance**
+    - Single inheritance
+    - Multilevel inheritance
+    - Hierarchical inheritance
+
+11. **Session 11: Inheritance**
+    - Hybrid inheritance
+    - Multiple inheritance concepts
+
+12. **Session 12: Polymorphism**
+    - Method overloading
+    - Compile-time polymorphism
+
+13. **Session 13: Polymorphism**
+    - Method overriding
+    - Runtime polymorphism
+
+14. **Session 14: Abstraction and GUI**
+    - Abstract class
+    - Abstract methods
+    - GUI basics
+
+15. **Session 15: Interface And GUI**
+    - Defining interfaces
+    - Implementing interfaces
+    - Advanced GUI concepts     
+
+    
 ## Prerequisites
 
 - Basic understanding of programming concepts
